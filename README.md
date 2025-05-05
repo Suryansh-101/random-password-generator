@@ -1,20 +1,31 @@
-# Random Password Generator 🔒
+# 🔒 Random Password Generator
 
-A simple Python project that generates random passwords based on user preferences like:
-- Length of the password
-- Inclusion of uppercase letters
-- Inclusion of numbers
-- Inclusion of special characters
+A simple Python project that generates secure, random passwords based on user-defined preferences such as:
 
-It also automatically checks and displays the password strength after generation!
+- 🔢 Password length  
+- 🔠 Inclusion of uppercase letters  
+- 🔢 Inclusion of numbers  
+- 🔣 Inclusion of special characters  
 
-## Features 🚀
-- Customizable password length
-- Option to include/exclude uppercase letters, numbers, and special characters
-- Password strength indicator (Weak, Medium, Average, Strong)
+It also **automatically checks and displays password strength** after generation!
 
-## How to Run 🖥️
-1. Make sure you have Python installed (version 3.x).
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/Suryansh-101/random-password-generator.git
+---
+
+## 🚀 Features
+
+- ✅ Customizable password length  
+- 🔡 Option to include/exclude uppercase letters, numbers, and special characters  
+- 🧠 Password strength indicator: **Weak 😴**, **Medium ⚡**, **Average ⚡**, or **Strong 🔥**
+
+---
+
+## 🖥️ How to Run
+
+### 1. Prerequisites
+Make sure you have **Python 3.x** installed on your system.
+
+### 2. Clone the Repository
+
+```bash
+git clone https://github.com/Suryansh-101/random-password-generator.git
+cd random-password-generator
