@@ -17,4 +17,4 @@ It also automatically checks and displays the password strength after generation
 1. Make sure you have Python installed (version 3.x).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/random-password-generator.git
+   git clone https://github.com/Suryansh-101/random-password-generator.git
